@@ -1,4 +1,7 @@
 .render {
-  height: screen;
   width: screen;
+}
+
+.container p {
+  padding: 4em;
 }

@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Spline from '@splinetool/react-spline'
+import Link from 'next/link'
 
 const Home: NextPage = () => {
   return (
@@ -12,15 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Spline className={styles.render} scene="https://prod.spline.design/kGMgvh8IL-oGyowa/scene.splinecode" />
-      <div className={styles.reasoning}>
-        <h1>Community project.</h1>
-        <p>This is my response to the Community art project. 
-          Above is my project (It&apos;s interactive, so have a look try dragging it with your cursor!).
-          I originally decided that I wanted to make an LGBTQIA+ themed project, however, I decided against that, 
-          and decided to make this instead. This is meant to preresent a community of people living on an island.
-          I wanted to make a low-poly style piece of art as I am a big fan of this style of art. 
-          </p>
-      </div>
+      <p>Built by <b><Link href="https://aretav.com/toby">Toby</Link></b>. Always <b><Link href="https://github.com/developedbytoby/art-project">open source</Link></b>.</p>
     </div>
   )
 }
