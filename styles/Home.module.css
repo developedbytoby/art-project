@@ -1,8 +1,3 @@
-.render {
-  width: screen;
-  height: screen;
-}
-
 .container p {
   padding: 2em;
 }
