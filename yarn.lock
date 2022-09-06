@@ -159,10 +159,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.4.tgz#0c8b74c50f29ee44f423f7416829c0bf8bb5eb27"
   integrity sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==
 
-"@splinetool/react-spline@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@splinetool/react-spline/-/react-spline-2.2.1.tgz#ebd9ff836a734a4f5ca0a9b83352c9c2582024b3"
-  integrity sha512-GDVYDEhYn9AjUbOWMpg2qIAtH3yYuw0itiG/lcNv5H1WZ5R3E3TjcNvyVou2td/16DW9m03N5cI/WVKGgsSFxg==
+"@splinetool/react-spline@2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@splinetool/react-spline/-/react-spline-2.2.2.tgz#b6297471957e5c237ff20e05e007411a443e8a06"
+  integrity sha512-4OW2Y8ONHitNClB9bB0AJhVRXP2oakV5cLkbJE++wMsA7rFTWPAC74XM/pQlXYWix/lP+A8iUFi055IhewrC8A==
   dependencies:
     react-merge-refs "^1.1.0"
 
