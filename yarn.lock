@@ -166,10 +166,10 @@
   dependencies:
     react-merge-refs "^1.1.0"
 
-"@splinetool/runtime@0.9.129":
-  version "0.9.129"
-  resolved "https://registry.yarnpkg.com/@splinetool/runtime/-/runtime-0.9.129.tgz#717a9ba6561f09b88b4fd194d0ef3e0db6ddd110"
-  integrity sha512-whv+U3wNTQz+tonydZjw5wEUCVUfKxyzj7CuVK6pPmPw97azGwWMQsCIJD1FpRq/Km1f+9KJp4eNFeuyLk7Fzw==
+"@splinetool/runtime@0.9.133":
+  version "0.9.133"
+  resolved "https://registry.yarnpkg.com/@splinetool/runtime/-/runtime-0.9.133.tgz#14d56fd432c6704f96b7e2cd2a74d7445995fa51"
+  integrity sha512-2+ISnWzWA89GXjOQxdnosjkvi2zUmbZudYYNLaR/HL0BRK38PNdD9JJv8eUN1lT5VI9xhJFvRWdPw6ffwvG7vw==
   dependencies:
     on-change "^4.0.0"
 
