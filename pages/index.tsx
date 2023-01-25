@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Spline scene="https://prod.spline.design/kGMgvh8IL-oGyowa/scene.splinecode"/>
-      <p>Built by <b><Link href="https://aretav.com/toby">Toby</Link></b>. Always <b><Link href="https://github.com/developedbytoby/art-project">open source</Link></b>.</p>
+      <p>Built by <b><Link href="https://tobyb.dev">Toby</Link></b>. Always <b><Link href="https://github.com/developedbytoby/art-project">open source</Link></b>.</p>
     </div>
   )
 }
